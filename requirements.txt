@@ -1,0 +1,7 @@
+langchain langchain_community 
+huggingface_hub
+faiss-cpu 
+langchain_huggingface
+chromadb 
+langchain_core
+wikipedia
